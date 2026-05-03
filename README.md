@@ -7,9 +7,9 @@ Preview results are below
 
 ![Performance under model mismatch](model_mismatch.png)
 
-![](result.png)
+![Performance under different (worse) delay spread](worse_delay_spread.png)
 
-![Gain after fine tuning](find_tuning_gain.png)
+![Gain after fine tuning](fine_tuning_gain.png)
 
 ![BLER degradation after weight pruning and quantization](compression_degradation.png)
 
