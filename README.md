@@ -1,5 +1,5 @@
 All details are in the notebook. Trained usable weights is in `neural_receiver_weights` and `neural_receiver_weights_pruned_dequantized_from_int8`.
-The NRX model is based on [this tutorial](https://nvlabs.github.io/sionna/phy/tutorials/notebooks/Neural_Receiver.html). 
+The NRX model is based on [this tutorial](https://nvlabs.github.io/sionna/phy/tutorials/notebooks/Neural_Receiver.html) and [this paper](https://arxiv.org/abs/2005.01494)
 
 Preview results are below
 
